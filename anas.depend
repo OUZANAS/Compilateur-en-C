@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734787406 source:d:\cycle gi\projet c\analyse lexicale\anas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
